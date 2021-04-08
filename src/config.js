@@ -1,4 +1,6 @@
 const config = {
+    STRIPE_KEY: "pk_live_hHHpt16ufRazHaBX6oOF0V5I001LDVxRLk",
+
     s3: {
       REGION: "us-east-2",
       BUCKET: "notes-app-uploads-dc7",
